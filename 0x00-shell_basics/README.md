@@ -1,1 +1,1 @@
-here kjk
+0x01 shell permisons
